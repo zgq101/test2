@@ -4,6 +4,6 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("小屁孩");
+        System.out.println("大屁孩");
     }
 }
